@@ -83,7 +83,6 @@ class productModel
         $arr = [];
         foreach ($data as $value) {
             $infor = new product($value['productName'], $value['productType'], $value['price'], $value['quantity'], $value['dateAdd'], $value['description']);
-            $infor->setId($value['id']);
             array_push($arr, $infor);
         }
         return $arr;
