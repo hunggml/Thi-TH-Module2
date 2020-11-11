@@ -22,6 +22,11 @@
 
 </head>
 <body>
+<style>
+    td{
+      margin-left: 10px;
+    }
+</style>
 <div class="container">
     <div class="row" style="background-color: azure;">
         <a href="index.php?page=add" class="btn btn-primary btn-xs pull-right"><b>+</b> Add New Product</a>
