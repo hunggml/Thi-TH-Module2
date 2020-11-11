@@ -22,6 +22,18 @@
 
 </head>
 <body>
+<style>
+    #main{
+        font-size: 50px;
+    }
+
+</style>
+<table style="margin: 0 auto">
+    <tr>
+        <th id="main">List Product</th>
+    </tr>
+</table>
+<br>
 <div class="container">
     <div class="row" style="background-color: azure;">
         <form class="form-inline my-2 my-lg-0" action="index.php?page=search" method="post">

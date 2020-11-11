@@ -33,6 +33,9 @@
     textarea{
         width: 400px;
     }
+    th{
+        font-size: 50px;
+    }
 </style>
 <form method="post" enctype="multipart/form-data">
     <a href="index.php">RETURN HOME</a>

@@ -23,10 +23,17 @@
 </head>
 <body>
 <style>
-    td{
-      margin-left: 10px;
+    #main{
+        font-size: 50px;
     }
+
 </style>
+<table style="margin: 0 auto">
+    <tr>
+        <th id="main">List Product</th>
+    </tr>
+</table>
+<br>
 <div class="container">
     <div class="row" style="background-color: azure;">
 <form class="form-inline my-2 my-lg-0" action="index.php?page=search" method="post">
@@ -34,8 +41,8 @@
     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
 </form>
     </div>
-    <br>
 </div>
+
 <div class="container">
     <div class="row" style="background-color: azure;">
         <a href="index.php?page=add" class="btn btn-primary btn-xs pull-right"><b>+</b> Add New Product</a>
