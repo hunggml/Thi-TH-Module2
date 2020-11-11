@@ -32,6 +32,7 @@
     }
 </style>
 <form method="post" enctype="multipart/form-data">
+    <a href="index.php">RETURN HOME</a>
     <table>
         <tr>
             <td>
