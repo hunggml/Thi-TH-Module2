@@ -10,20 +10,24 @@
 <body>
 <style>
     table {
+        background-color: #0e84b5;
         margin: 0 auto;
         border: 1px;
     }
 
     td {
+        color: white;
         padding-top: 10px;
     }
 
     button {
         align-content: center;
         width: 600px;
+        height: 35px;
     }
 
     input {
+        height: 40px;
         width: 400px;
     }
     textarea{
