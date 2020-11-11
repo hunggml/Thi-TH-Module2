@@ -39,6 +39,12 @@
     <a href="index.php">RETURN HOME</a>
     <table>
         <tr>
+            <th>ADD PRODUCT</th>
+        </tr>
+    </table>
+    <br>
+    <table>
+        <tr>
             <td>
                 Product Name :
             </td>
